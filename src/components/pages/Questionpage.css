@@ -1,0 +1,32 @@
+.section-question{
+    display: flex;
+    max-width: 565px;
+    margin: 0 auto;
+    padding-top: 3rem;
+    background-color: #383c5f;
+    color:white;
+    padding-bottom: 4rem;
+    padding-right: 3rem;
+   
+}
+
+.answer-button{
+    display: block;
+    margin-left: 119px;
+    margin-top: 14px;
+    background-color: #5f9ea000;
+    width: 173px;
+    height: 23px;
+    color: white;
+    border-radius: 7px;
+    border-style: double;
+}
+
+.question-box{
+    margin-left: 25px;
+}
+
+.score-box{
+      height: 100px;
+      margin:0 auto;
+}
